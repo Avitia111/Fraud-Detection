@@ -162,3 +162,4 @@ cython_debug/
 # CSV due to file size being greater than 100MB
 *.csv
 .DS_Store
+requirements.txt
